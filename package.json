@@ -1,0 +1,11 @@
+{
+  "name": "crypto-price-oracle-web3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "Simple crypto price oracle for Web3 learning",
+  "author": "Nazrul Islam",
+  "license": "MIT"
+}
